@@ -1,6 +1,9 @@
 # Redux-Store
 Description
 THIS WAS ENTIRELY CREATED IN PANIC MODE. IT MAY NOT WORK
+
+
+https://sleepy-beach-98444.herokuapp.com/
 E-commerce website that allows user to login and purchase items, also see their order history.
 
 User Story
